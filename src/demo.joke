@@ -1,0 +1,10 @@
+(ns demo
+  (:require [joker.filepath :as filepath] ; just to prove internal namespaces work
+            [other-ns]))
+
+(defn main []
+  (filepath/join "abc" "123")
+  (other-ns/foo))
+
+(if (= *main-file* *file*)
+  (main))

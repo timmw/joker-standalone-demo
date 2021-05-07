@@ -1,0 +1,4 @@
+(ns other-ns)
+
+(defn foo []
+  (print "Hello from the other namespace"))
