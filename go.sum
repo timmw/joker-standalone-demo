@@ -7,6 +7,8 @@ github.com/mattn/go-runewidth v0.0.3/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzp
 github.com/pkg/profile v1.2.1/go.mod h1:hJw3o1OdXxsrSjjVksARp5W95eeEaEfptyVZyv6JUPA=
 github.com/timmw/joker v0.17.2-0.20210507175627-d757aa023753 h1:tYlvMEwTPi8nE/dUUK/bOC/ahRWjiFdCZPHyIPuh5PU=
 github.com/timmw/joker v0.17.2-0.20210507175627-d757aa023753/go.mod h1:/S1zfpgZNFooTuDcrguTPmvG3y9ryTnSft1CZgPo744=
+github.com/timmw/joker v0.17.2-0.20210508133659-c09868a5d3b2 h1:1BAI6gDASnoEEJ648ZA2im1Mpk8NLvKBdtHeFWxyKjk=
+github.com/timmw/joker v0.17.2-0.20210508133659-c09868a5d3b2/go.mod h1:/S1zfpgZNFooTuDcrguTPmvG3y9ryTnSft1CZgPo744=
 github.com/yuin/goldmark v1.3.2 h1:YjHC5TgyMmHpicTgEqDN0Q96Xo8K6tLXPnmNOHXCgs0=
 github.com/yuin/goldmark v1.3.2/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 go.etcd.io/bbolt v1.3.3 h1:MUGmc65QhB3pIlaQ5bB4LwqSj6GIonVJXpZiaKNyaKk=

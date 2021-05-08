@@ -39,7 +39,7 @@ func main() {
 	core.GLOBAL_ENV.SetClassPath("src")
 	core.GLOBAL_ENV.InitEnv(os.Stdin, os.Stdout, os.Stderr, os.Args[1:])
 	core.GLOBAL_ENV.SetMainFilename(filename)
-	core.GLOBAL_ENV.SetEmbedFs(f)
+	core.GLOBAL_ENV.SetEmbedFs(&f)
 	core.ProcessCoreData()
 
 	mainFile, err := f.Open("src/demo.joke")
